@@ -676,3 +676,12 @@ https://bkm.beetv.kz/btv/live/hls/000000008.m3u8
 #EXTINF:-1,ТВ 21
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer 
 https://bkm.beetv.kz/btv/live/hls/000000006.m3u8
+#EXTINF:-1,НОВЫЙ ИГРОВОЙ КАНАЛ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer 
+https://bkm.beetv.kz/btv/live/hls/000008615.m3u8
+#EXTINF:-1,НОРОД ВСЕ ВИДИТ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer 
+https://bkm.beetv.kz/btv/live/hls/000008614.m3u8
+#EXTINF:-1,Q Football
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer 
+https://bkm.beetv.kz/btv/live/hls/000008848.m3u8
